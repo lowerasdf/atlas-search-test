@@ -1,0 +1,5 @@
+import urllib
+
+username = "test"
+password = urllib.parse.quote("test")
+cluster = "cluster0.xxxxx.mongodb.net"
